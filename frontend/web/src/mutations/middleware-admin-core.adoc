@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\frontend\web\src\mutations\middleware-admin-core.adoc
+// Generated at: 2025-10-19T15:09:45.441Z
